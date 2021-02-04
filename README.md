@@ -1,0 +1,1 @@
+# jms-journey-microproject-frontend-static
